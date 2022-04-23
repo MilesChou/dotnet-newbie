@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Courses", "Courses\Courses.csproj", "{9A6754E0-9211-4F16-952C-9A58A63D5AAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course01", "Course01\Course01.csproj", "{9A6754E0-9211-4F16-952C-9A58A63D5AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6BC2D40D-4832-474C-895E-71835EB1258A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course01.Tests", "Course01.Tests\Course01.Tests.csproj", "{6BC2D40D-4832-474C-895E-71835EB1258A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

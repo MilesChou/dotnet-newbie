@@ -5,6 +5,10 @@
         <Nullable>enable</Nullable>
 
         <IsPackable>false</IsPackable>
+
+        <AssemblyName>Courses01Tests</AssemblyName>
+
+        <RootNamespace>Courses01Tests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -15,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Courses\Courses.csproj" />
+      <ProjectReference Include="..\Course01\Course01.csproj" />
     </ItemGroup>
 
 </Project>
