@@ -7,11 +7,11 @@
             Console.WriteLine(HowAbout(DateTime.Now, 30, false));
         }
 
-        public static string HowAbout(DateTime today, float temp, bool isGoodWeather)
+        public static string HowAbout(DateTime today, float temperature, bool isGoodWeather)
         {
             if (IsTodayHoliday(today))
             {
-                return temp >= 30
+                return temperature >= 30
                     ? "今天外出，去游泳"
                     : "今天外出，去爬山";
             }
