@@ -1,6 +1,6 @@
 ﻿namespace Courses01
 {
-    public static class Course1
+    public static class Course01
     {
         private static void Main(string[] args)
         {

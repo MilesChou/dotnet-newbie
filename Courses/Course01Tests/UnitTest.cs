@@ -23,6 +23,6 @@ public class Tests
     [TestCase("下次繼續努力", 0)]
     public void TestCourse1(string excepted, int score)
     {
-        Assert.AreEqual(excepted, Course1.Grade(score));
+        Assert.AreEqual(excepted, Course01.Grade(score));
     }
 }
